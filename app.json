@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "NfcSigner",
+    "slug": "NfcSigner",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "host.exp.exponent"
+    },
+    "ios": {
+      "bundleIdentifier": "host.exp.exponent"
+    }
+  }
+}
